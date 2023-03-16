@@ -26,7 +26,8 @@ La abstracción se logra a través del uso de clases y objetos, que encapsulan l
 
 El encapsulamiento ocurre cuando se almacena toda la información relevante de un objeto dentro del mismo. También nos permite ocultar dicha información del exterior y decidir a qué información se le asignará acceso privado o público según lo requiera el programador.
 
-![](./img/https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/CPT-OOP-interfaces.svg/640px-CPT-OOP-interfaces.svg.png "Encapsu")
+![](./ParadigmaOO/img/https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/CPT-OOP-interfaces.svg/640px-CPT-OOP-interfaces.svg.png "Encapsu")
+
 
 
 
