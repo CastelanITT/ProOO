@@ -29,5 +29,5 @@ El encapsulamiento ocurre cuando se almacena toda la información relevante de u
 # Herencia
 Permite crear clases derivadas de clases ya existentes, heredando sus atributos y métodos permitiendo incluso crear nuevas características. Así podemos definir nuevas clases basadas en las que ya se tienen generadas.
 
-
+![T2](https://sites.google.com/a/innovavirtual.org/tecceilpvi/_/rsrc/1419056015640/home/vi-ciclo-2014/poo/herencia/poo5.gif)
 
