@@ -25,7 +25,7 @@ La abstracción se logra a través del uso de clases y objetos, que encapsulan l
 # Encapsulamiento
 
 El encapsulamiento ocurre cuando se almacena toda la información relevante de un objeto dentro del mismo. También nos permite ocultar dicha información del exterior y decidir a qué información se le asignará acceso privado o público según lo requiera el programador.
-
+![T1](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/CPT-OOP-interfaces.svg/220px-CPT-OOP-interfaces.svg.png)
 # Herencia
 Permite crear clases derivadas de clases ya existentes, heredando sus atributos y métodos permitiendo incluso crear nuevas características. Así podemos definir nuevas clases basadas en las que ya se tienen generadas.
 
