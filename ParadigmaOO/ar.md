@@ -31,3 +31,25 @@ Permite crear clases derivadas de clases ya existentes, heredando sus atributos 
 
 ![T2](https://sites.google.com/a/innovavirtual.org/tecceilpvi/_/rsrc/1419056015640/home/vi-ciclo-2014/poo/herencia/poo5.gif)
 
+
+# UML
+
+## Historia 
+El Lenguaje Unificado de Modelado (UML) fue creado para forjar un lenguaje de modelado visual común y semántica y sintácticamente rico para la arquitectura, el diseño y la implementación de sistemas de software complejos, tanto en estructura como en comportamiento. UML tiene aplicaciones más allá del desarrollo de software, p. ej., en el flujo de procesos en la fabricación. Es comparable a los planos usados en otros campos y consiste en diferentes tipos de diagramas. En general, los diagramas UML describen los límites, la estructura y el comportamiento del sistema y los objetos que contiene. UML no es un lenguaje de programación, pero existen herramientas que se pueden usar para generar código en diversos lenguajes usando los diagramas UML. UML guarda una relación directa con el análisis y el diseño orientados a objetos.
+
+## Origen 
+“The Three Amigos” (los tres amigos) de la ingeniería de software, como se los conocía, habían desarrollado otras metodologías. Se asociaron para brindar claridad a los programadores creando nuevos estándares. La colaboración entre Grady, Booch y Rumbaugh fortaleció los tres métodos y mejoró el producto final. Los esfuerzos de estos pensadores derivaron en la publicación de los documentos UML 0.9 y 0.91 en 1996. Pronto se hizo evidente que varias organizaciones, incluidas Microsoft, Oracle e IBM, consideraron que UML era esencial para su propio desarrollo de negocios. Ellos, junto con muchas otras personas y compañías, establecieron los recursos necesarios para desarrollar un lenguaje de modelado hecho y derecho. “Los tres amigos” publicaron la Guía del usuario para el Lenguaje Unificado de Modelado en 1999, y una actualización que incluye información sobre UML 2.0 en la segunda edición de 2005. UML está pensado para modelar sistemas, aunque es capaz de modelar sistemas que no son informáticos, como flujos de trabajo en una empresa, diseño de la estructura de una organización, etc.
+
+## Herramientas 
+Hay varias herramientas para el modelado en UML, algunas de las más populares son:
+
+Enterprise Architect: Es una herramienta muy completa y potente que permite modelar en UML y otras técnicas de modelado. Es utilizada tanto por pequeñas empresas como por grandes organizaciones.
+
+Visual Paradigm: Es una herramienta muy fácil de usar que permite modelar en UML y otras técnicas de modelado. Ofrece una amplia variedad de funciones y características, lo que la hace una buena opción para proyectos de mediana y alta complejidad.
+
+MagicDraw: Es una herramienta muy completa y flexible que permite modelar en UML y otras técnicas de modelado. Es utilizada principalmente por empresas que desarrollan productos de alta complejidad, como software embebido.
+
+Modelio: Es una herramienta de código abierto que permite modelar en UML y otras técnicas de modelado. Es fácil de usar y ofrece una amplia variedad de características para la creación de modelos.
+
+ArgoUML: Es una herramienta de código abierto que permite modelar en UML y otras técnicas de modelado. Es fácil de usar y ofrece una amplia variedad de características para la creación de modelos. Es especialmente popular entre los desarrolladores de software de código abierto.
+
