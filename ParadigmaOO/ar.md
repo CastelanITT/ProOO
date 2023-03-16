@@ -22,6 +22,9 @@ La abstracción permite representar objetos del mundo real en un nivel conceptua
 
 La abstracción se logra a través del uso de clases y objetos, que encapsulan los datos y las funciones relevantes y los exponen a través de interfaces bien definidas. La abstracción también se relaciona con el concepto de ocultamiento de información, que se refiere a la capacidad de una clase para ocultar los detalles internos de su implementación, y solo exponer la información y la funcionalidad necesarias a través de su interfaz pública.
 
+# Encapsulamiento
+
+El encapsulamiento ocurre cuando se almacena toda la información relevante de un objeto dentro del mismo. También nos permite ocultar dicha información del exterior y decidir a qué información se le asignará acceso privado o público según lo requiera el programador.
 
 
 
